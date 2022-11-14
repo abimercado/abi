@@ -1,0 +1,22 @@
+.colornav {
+    background-color: #fab5df
+    ;
+}
+.colormenu {
+    background-color: #f38ccc;
+
+}
+.colorbutton {
+    background-color: #fa6ec4;
+}
+body{
+    background-color: #f8d7ec;
+    
+}
+a:hover {
+    color: #ff3ed5 !important;
+}
+.lgcolor {
+    
+    background-color: #fa6ec4 !important;
+}
